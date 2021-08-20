@@ -1,6 +1,6 @@
 # EnterpriseArchitectureProcess
 
-![Diagram](http://jrllamocap.github.io/EnterpriseArchitectureProcess/EA.png)
+![Diagram](EA.png)
 
 ![Diagram](http://jgraph.github.io/drawio-github/diagram.png)
 
